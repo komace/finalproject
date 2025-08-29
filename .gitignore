@@ -13,3 +13,4 @@ terraform.tfvars
 
 # Тимчасові або тестові файли
 test.tf
+provider.tfprovider.tf
